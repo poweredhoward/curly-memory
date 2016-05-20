@@ -1,0 +1,2 @@
+# curly-memory
+Checkers game
